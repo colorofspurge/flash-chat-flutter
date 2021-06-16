@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415705601668",
+    "project_id": "lilstar-chat",
+    "storage_bucket": "lilstar-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415705601668:android:311f20af7400dff8d9d4d1",
+        "android_client_info": {
+          "package_name": "org.lilSTAR.lilSTAR_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415705601668-cmdan52l27vfa8ebvjb1hrqmedbhdk5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEW55DcwoQhbDYVE0OXNzgge3VXTbaSwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415705601668-cmdan52l27vfa8ebvjb1hrqmedbhdk5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

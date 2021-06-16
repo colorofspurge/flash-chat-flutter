@@ -1,0 +1,29 @@
+{
+  "name": "flash-chat-flutter",
+  "version": "1.0.0",
+  "description": "![lilSTAR Banner](https://github.com/colorofspurge/Images/blob/master/lilSTARBanner.png)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colorofspurge/flash-chat-flutter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colorofspurge/flash-chat-flutter/issues"
+  },
+  "files": {
+    "lib": "",
+    "bin": ""
+  },
+  "homepage": "https://github.com/colorofspurge/flash-chat-flutter#readme",
+  "dependencies": {
+    "some_package": "^1.0.0"
+  }
+}
